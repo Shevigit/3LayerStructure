@@ -1,0 +1,1 @@
+23/12/2024 13:51:47	Dal.Sale_Implementation.ReadAll:	read all sale

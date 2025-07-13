@@ -1,0 +1,1 @@
+07/05/2025 23:32:02	DalTest.Program.Main:	Exception of type 'System.Exception' was thrown.

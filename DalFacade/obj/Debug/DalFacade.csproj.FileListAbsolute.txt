@@ -1,0 +1,273 @@
+M:\C#.NET\DotNet2025_9900_5155\bin\DalFacade.deps.json
+M:\C#.NET\DotNet2025_9900_5155\bin\DalFacade.dll
+M:\C#.NET\DotNet2025_9900_5155\bin\DalFacade.pdb
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.dll
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\C#.NET\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+E:\DotNet2025_9900_5155\bin\DalFacade.deps.json
+E:\DotNet2025_9900_5155\bin\DalFacade.dll
+E:\DotNet2025_9900_5155\bin\DalFacade.pdb
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.dll
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+E:\DotNet2025_9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\bin\DalFacade.deps.json
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\bin\DalFacade.dll
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\bin\DalFacade.pdb
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+M:\C#.NET\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\bin\DalFacade.deps.json
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\bin\DalFacade.dll
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\bin\DalFacade.pdb
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\DotNet2025_ מתוקן9900_5155\bin\DalFacade.deps.json
+T:\DotNet2025_ מתוקן9900_5155\bin\DalFacade.dll
+T:\DotNet2025_ מתוקן9900_5155\bin\DalFacade.pdb
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+T:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\DotNet2025_ מתוקן9900_5155\bin\DalFacade.deps.json
+M:\DotNet2025_ מתוקן9900_5155\bin\DalFacade.dll
+M:\DotNet2025_ מתוקן9900_5155\bin\DalFacade.pdb
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+M:\DotNet2025_ מתוקן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+E:\DotNet2025_ן9900_5155\bin\DalFacade.deps.json
+E:\DotNet2025_ן9900_5155\bin\DalFacade.dll
+E:\DotNet2025_ן9900_5155\bin\DalFacade.pdb
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+E:\DotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\DotNet2025_ן9900_5155\bin\DalFacade.deps.json
+T:\יד\DotNet2025_ן9900_5155\bin\DalFacade.dll
+T:\יד\DotNet2025_ן9900_5155\bin\DalFacade.pdb
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+T:\יד\DotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+E:\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+E:\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+E:\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+E:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+T:\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.sourcelink.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.sourcelink.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.sourcelink.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.sourcelink.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.deps.json
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalFacade.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\refint\DalFacade.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\DalFacade.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalFacade\obj\Debug\ref\DalFacade.dll

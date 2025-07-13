@@ -1,0 +1,165 @@
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\UI.exe
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\UI.deps.json
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\UI.runtimeconfig.json
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\UI.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\UI.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.Form1.resources
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.GenerateResource.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfo.cs
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\refint\UI.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.genruntimeconfig.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\ref\UI.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormCustomer.resources
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormOrder.resources
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormProduct.resources
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormSale.resources
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.ManagerForm.resources
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.Up2Date
+T:\יד\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.sourcelink.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.exe
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.Form1.resources
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormCustomer.resources
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormOrder.resources
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormProduct.resources
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormSale.resources
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.ManagerForm.resources
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CopyComplete
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\refint\UI.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.deps.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.runtimeconfig.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\ref\UI.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.exe
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.deps.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.runtimeconfig.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\UI.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.Form1.resources
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormCustomer.resources
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormOrder.resources
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormProduct.resources
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormSale.resources
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.ManagerForm.resources
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.GenerateResource.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfo.cs
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.sourcelink.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.Up2Date
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\refint\UI.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.genruntimeconfig.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\ref\UI.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.exe
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.deps.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.runtimeconfig.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.Form1.resources
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormCustomer.resources
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormOrder.resources
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormProduct.resources
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormSale.resources
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.ManagerForm.resources
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.GenerateResource.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfo.cs
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.sourcelink.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.Up2Date
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\refint\UI.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.genruntimeconfig.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\ref\UI.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.exe
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.deps.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.runtimeconfig.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.Form1.resources
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormCustomer.resources
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormOrder.resources
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormProduct.resources
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormSale.resources
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.ManagerForm.resources
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.GenerateResource.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfo.cs
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.sourcelink.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.Up2Date
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\refint\UI.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.genruntimeconfig.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\ref\UI.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.exe
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.deps.json
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.runtimeconfig.json
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.Form1.resources
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormCustomer.resources
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormOrder.resources
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormProduct.resources
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormSale.resources
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.ManagerForm.resources
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CopyComplete
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\refint\UI.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\ref\UI.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.exe
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.deps.json
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.runtimeconfig.json
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\UI.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.Form1.resources
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormCustomer.resources
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormOrder.resources
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormProduct.resources
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.FormSale.resources
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.ManagerForm.resources
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.GenerateResource.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.csproj.CopyComplete
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\refint\UI.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\UI.genruntimeconfig.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\UI\obj\Debug\ref\UI.dll

@@ -1,0 +1,178 @@
+M:\DotNet2025_ מתוקן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+M:\DotNet2025_ מתוקן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\DotNet2025_ מתוקן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+M:\DotNet2025_ מתוקן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+M:\DotNet2025_ מתוקן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\DotNet2025_ן9900_5155\bin\BL.deps.json
+E:\DotNet2025_ן9900_5155\bin\BL.dll
+E:\DotNet2025_ן9900_5155\bin\BL.pdb
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CopyComplete
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+E:\DotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+T:\יד\DotNet2025_ן9900_5155\bin\BL.deps.json
+T:\יד\DotNet2025_ן9900_5155\bin\BL.dll
+T:\יד\DotNet2025_ן9900_5155\bin\BL.pdb
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+T:\יד\DotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+T:\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+T:\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CopyComplete
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.sourcelink.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CopyComplete
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.sourcelink.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.sourcelink.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.sourcelink.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.Up2Date
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CopyComplete
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\refint\BL.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.deps.json
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\BL.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\BL.csproj.CopyComplete
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\BL\obj\Debug\ref\BL.dll

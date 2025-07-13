@@ -1,0 +1,210 @@
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\bin\Tools.deps.json
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\bin\Tools.dll
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\bin\Tools.pdb
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.dll
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\refint\Tools.dll
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.pdb
+M:\c#.NET\lesson8\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\ref\Tools.dll
+T:\DotNet2025_ מתוקן9900_5155\bin\Tools.deps.json
+T:\DotNet2025_ מתוקן9900_5155\bin\Tools.dll
+T:\DotNet2025_ מתוקן9900_5155\bin\Tools.pdb
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.dll
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\refint\Tools.dll
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.pdb
+T:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\ref\Tools.dll
+M:\DotNet2025_ מתוקן9900_5155\bin\Tools.deps.json
+M:\DotNet2025_ מתוקן9900_5155\bin\Tools.dll
+M:\DotNet2025_ מתוקן9900_5155\bin\Tools.pdb
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.dll
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\refint\Tools.dll
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.pdb
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\ref\Tools.dll
+M:\DotNet2025_ מתוקן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+E:\DotNet2025_ן9900_5155\bin\Tools.deps.json
+E:\DotNet2025_ן9900_5155\bin\Tools.dll
+E:\DotNet2025_ן9900_5155\bin\Tools.pdb
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+E:\DotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+T:\יד\DotNet2025_ן9900_5155\bin\Tools.deps.json
+T:\יד\DotNet2025_ן9900_5155\bin\Tools.dll
+T:\יד\DotNet2025_ן9900_5155\bin\Tools.pdb
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+T:\יד\DotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+E:\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+E:\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+E:\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+E:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+T:\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+T:\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.sourcelink.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.sourcelink.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.sourcelink.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.sourcelink.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.deps.json
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\Tools.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\refint\Tools.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\Tools.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\Tools\obj\Debug\ref\Tools.dll

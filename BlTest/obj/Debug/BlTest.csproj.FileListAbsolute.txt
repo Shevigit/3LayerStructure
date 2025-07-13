@@ -1,0 +1,7 @@
+T:\יד\-sheviDotNet2025_ן9900_5155\BlTest\bin\Debug\BlTest.exe.config
+T:\יד\-sheviDotNet2025_ן9900_5155\BlTest\bin\Debug\BlTest.exe
+T:\יד\-sheviDotNet2025_ן9900_5155\BlTest\bin\Debug\BlTest.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\BlTest\obj\Debug\BlTest.exe
+T:\יד\-sheviDotNet2025_ן9900_5155\BlTest\obj\Debug\BlTest.pdb

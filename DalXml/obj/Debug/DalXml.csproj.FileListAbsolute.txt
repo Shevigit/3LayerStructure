@@ -1,0 +1,189 @@
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+E:\DotNet2025_ן9900_5155\bin\DalXml.deps.json
+E:\DotNet2025_ן9900_5155\bin\DalXml.dll
+E:\DotNet2025_ן9900_5155\bin\DalXml.pdb
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+E:\DotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+T:\יד\DotNet2025_ן9900_5155\bin\DalXml.deps.json
+T:\יד\DotNet2025_ן9900_5155\bin\DalXml.dll
+T:\יד\DotNet2025_ן9900_5155\bin\DalXml.pdb
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+T:\יד\DotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+E:\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+E:\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+E:\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+E:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+M:\c#.NET\lesson17\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+M:\c#.NET\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+T:\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+T:\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+T:\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+D:\_\פרויקט c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\This User\Music\שנה ב\c#\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+T:\יד\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.sourcelink.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+D:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.sourcelink.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+F:\_\פרויקט יום ראשון\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.sourcelink.json
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+T:\יד\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.sourcelink.json
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.Up2Date
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+T:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+D:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.deps.json
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\bin\DalXml.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\refint\DalXml.dll
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\DalXml.pdb
+F:\‏‏תיקיה חדשה\-sheviDotNet2025_ן9900_5155\DalXml\obj\Debug\ref\DalXml.dll

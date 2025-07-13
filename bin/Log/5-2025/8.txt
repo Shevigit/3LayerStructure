@@ -1,0 +1,1 @@
+08/05/2025 20:58:12	DalTest.Program.Main:	Object reference not set to an instance of an object.
