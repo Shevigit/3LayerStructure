@@ -12,18 +12,33 @@ namespace Dal
     public class CustomerImplementation : ICustomer
     {
         private string path = @"..\xml\customers.xml";
+        //public List<Customer> LoadCustomerList()
+        //{
+        //    XmlSerializer serializer = new XmlSerializer(typeof(List<Customer>));
+        //    List<Customer> customers;
+        //    using (StreamReader streamReader = new StreamReader(path))
+        //    {
+        //        customers=serializer.Deserialize(streamReader) as List<Customer>;
+        //    }
+        //    if (customers!=null)
+        //        return customers;
+        //    throw new Exception();
+        //}
         public List<Customer> LoadCustomerList()
         {
+            if (!File.Exists(path))
+                return new List<Customer>();
+
             XmlSerializer serializer = new XmlSerializer(typeof(List<Customer>));
-            List<Customer> customers;
+
             using (StreamReader streamReader = new StreamReader(path))
             {
-                customers=serializer.Deserialize(streamReader) as List<Customer>;
+                return serializer.Deserialize(streamReader) as List<Customer>
+                       ?? new List<Customer>();
             }
-            if (customers!=null)
-                return customers;
-            throw new Exception();
         }
+
+
 
         public void SaveListCustomers(List<Customer> customers)
         {
@@ -61,7 +76,8 @@ namespace Dal
             Customer isExist=customers.FirstOrDefault(i=>i.Customer_Id==item.Customer_Id);
             if(isExist==null)
                 customers.Add(item);
-
+            if (isExist != null)
+                throw new DalIdExistsException("Customer with this ID already exists");
             SaveListCustomers(customers);
             return item.Customer_Id;
         }

@@ -13,7 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "Tools\Tools.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "xml", "xml", "{57C38121-DE99-464B-908D-EB0DD4A11487}"
 	ProjectSection(SolutionItems) = preProject
-		xml\customers.xml = xml\customers.xml
 		xml\dal-config.xml = xml\dal-config.xml
 		xml\data-config.xml = xml\data-config.xml
 		xml\products.xml = xml\products.xml

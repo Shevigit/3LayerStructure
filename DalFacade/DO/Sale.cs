@@ -12,11 +12,11 @@ public record Sale(
     DateTime? Date_End_Sale=null
     )
 {
- 
-    //public Sale()
-    //     : this(0, 0, 111, true, DateTime.Now, 1, null)
-    //{
 
-    //}
+    public Sale()
+         : this(0, 0, 111, true, DateTime.Now, 1, null)
+    {
+
+    }
 }
 

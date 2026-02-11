@@ -220,3 +220,15 @@ C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.
 C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.Net\Tools\obj\Debug\refint\Tools.dll
 C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.Net\Tools\obj\Debug\Tools.pdb
 C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.Net\Tools\obj\Debug\ref\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\bin\Tools.deps.json
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\bin\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\bin\Tools.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\refint\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\Tools.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\Tools\obj\Debug\ref\Tools.dll

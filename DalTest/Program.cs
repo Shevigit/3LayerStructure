@@ -207,8 +207,8 @@ namespace DalTest
             //האם באמת צריך להוסיף count///////////////////////////////////////////////////////
             Console.WriteLine("Enter count");
             if (!int.TryParse(Console.ReadLine(), out Count))
-                Price = 0;
-            Console.WriteLine("enter category between 1-5");
+                Count = 0;
+            Console.WriteLine("enter category between 0-4");
             int catagoryId;
             if (!int.TryParse(Console.ReadLine(), out catagoryId))
                 catagoryId = 0;

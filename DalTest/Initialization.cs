@@ -96,6 +96,8 @@ public static class Initialization
     public static void Initialize()
     {
         s_dal = DalApi.Factory.Get;
+        if (s_dal.Customer.ReadAll().Any())
+            return;
         //s_dal = dal;
         CreateCustomer();
         CreateProduct();
