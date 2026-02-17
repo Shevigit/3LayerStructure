@@ -47,7 +47,7 @@ namespace Tools
                 Directory.CreateDirectory(folder);
             if (!File.Exists(file))
                 File.Create(file).Close();
-            using (StreamWriter writerText = new StreamWriter(file))
+            using (StreamWriter writerText = new StreamWriter(file,true))
             {
                 writerText.WriteLine($"{DateTime.Now}\t{projectName}.{functionName}:\t{message}");
             }
@@ -57,51 +57,82 @@ namespace Tools
             //writer.Close();
             //f1.Close();
         }
+        //public static void DeleteOldFolder()
+        //{
+        //    string folderMonth;
+        //    string folderYear;
+        //    string[] subDirectories = Directory.GetDirectories(LOG);
+        //    //?האם זה נכון לעשות -2 אם אין את כל החודשים
+        //    for (int i = 0; i < subDirectories.Length; i++)
+        //    {
+        //        folderMonth = subDirectories[i].Substring(2);
+        //        folderYear = subDirectories[i].Substring(3, 4);
+        //        if (DateTime.Now.Month - 2 > 0)
+        //        {
+        //            if (!DateTime.Now.Year.Equals(folderYear))
+        //            {
+        //                Directory.Delete(subDirectories[i]);
+        //            }
+        //            else
+        //            {
+        //                if (!(DateTime.Now.Month).Equals(folderMonth) || !(DateTime.Now.Month - 1).Equals(folderMonth) ||
+        //                    !(DateTime.Now.Month - 2).Equals(folderMonth))
+        //                    Directory.Delete(subDirectories[i]);
+        //            }
+        //        }
+        //        else
+        //        {
+        //            if (!folderYear.Equals(DateTime.Now.Year - 1))
+        //            {
+        //                Directory.Delete(subDirectories[i]);
+        //            }
+        //            if (DateTime.Now.Month.Equals(2))
+        //            {
+        //                if (!subDirectories[i].Equals(12) && !subDirectories[i].Equals(1))
+        //                {
+        //                    Directory.Delete(subDirectories[i]);
+        //                }
+        //            }
+        //            if (DateTime.Now.Month.Equals(1))
+        //            {
+        //                if (!subDirectories[i].Equals(11) && !subDirectories[i].Equals(12))
+        //                {
+        //                    Directory.Delete(subDirectories[i]);
+        //                }
+        //            }
+        //        }
+        //    }
         public static void DeleteOldFolder()
         {
-            string folderMonth;
-            string folderYear;
+            if (!Directory.Exists(LOG))
+                return;
+
             string[] subDirectories = Directory.GetDirectories(LOG);
-            //?האם זה נכון לעשות -2 אם אין את כל החודשים
-            for (int i = 0; i < subDirectories.Length; i++)
+
+            // חישוב חודשיים אחרונים
+            DateTime now = DateTime.Now;
+            DateTime lastMonth = now.AddMonths(-1);
+            DateTime twoMonthsAgo = now.AddMonths(-2);
+
+            foreach (string dir in subDirectories)
             {
-                folderMonth = subDirectories[i].Substring(2);
-                folderYear = subDirectories[i].Substring(3, 4);
-                if (DateTime.Now.Month - 2 > 0)
+                string folderName = Path.GetFileName(dir); // לדוגמה "12-2025"
+                string[] parts = folderName.Split('-');
+                if (parts.Length != 2) continue;
+
+                int month = int.Parse(parts[0]);
+                int year = int.Parse(parts[1]);
+
+                DateTime folderDate = new DateTime(year, month, 1);
+
+                // רשימת חודשים שמורשים לשמור
+                if (folderDate < new DateTime(twoMonthsAgo.Year, twoMonthsAgo.Month, 1))
                 {
-                    if (!DateTime.Now.Year.Equals(folderYear))
-                    {
-                        Directory.Delete(subDirectories[i]);
-                    }
-                    else
-                    {
-                        if (!(DateTime.Now.Month).Equals(folderMonth) || !(DateTime.Now.Month - 1).Equals(folderMonth) ||
-                            !(DateTime.Now.Month - 2).Equals(folderMonth))
-                            Directory.Delete(subDirectories[i]);
-                    }
-                }
-                else
-                {
-                    if (!folderYear.Equals(DateTime.Now.Year - 1))
-                    {
-                        Directory.Delete(subDirectories[i]);
-                    }
-                    if (DateTime.Now.Month.Equals(2))
-                    {
-                        if (!subDirectories[i].Equals(12) && !subDirectories[i].Equals(1))
-                        {
-                            Directory.Delete(subDirectories[i]);
-                        }
-                    }
-                    if (DateTime.Now.Month.Equals(1))
-                    {
-                        if (!subDirectories[i].Equals(11) && !subDirectories[i].Equals(12))
-                        {
-                            Directory.Delete(subDirectories[i]);
-                        }
-                    }
+                    Directory.Delete(dir, true);
                 }
             }
         }
+
     }
 }
+

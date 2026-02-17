@@ -21,11 +21,4 @@
     <Customer_IsClub>true</Customer_IsClub>
     <Customer_Address>שדרות יחזקאל 5</Customer_Address>
   </Customer>
-  <Customer>
-    <Customer_Id>327735142</Customer_Id>
-    <Customer_Name>shevi</Customer_Name>
-    <Customer_Phone>0548503408</Customer_Phone>
-    <Customer_IsClub>true</Customer_IsClub>
-    <Customer_Address>shary Tshuva 10</Customer_Address>
-  </Customer>
 </ArrayOfCustomer>
