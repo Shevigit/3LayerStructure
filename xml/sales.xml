@@ -117,4 +117,76 @@
     <Count_Sale>10</Count_Sale>
     <Date_End_Sale>2025-06-24T00:00:00</Date_End_Sale>
   </Sale>
+  <Sale>
+    <SaleId>330</SaleId>
+    <ProductId>101</ProductId>
+    <Price_Sale>100</Price_Sale>
+    <If_All_Customers>true</If_All_Customers>
+    <Date_Start_Sale>2024-04-11T00:00:00</Date_Start_Sale>
+    <Count_Sale>1</Count_Sale>
+    <Date_End_Sale>2024-11-14T00:00:00</Date_End_Sale>
+  </Sale>
+  <Sale>
+    <SaleId>340</SaleId>
+    <ProductId>111</ProductId>
+    <Price_Sale>60</Price_Sale>
+    <If_All_Customers>false</If_All_Customers>
+    <Date_Start_Sale>2024-04-20T00:00:00</Date_Start_Sale>
+    <Count_Sale>1</Count_Sale>
+    <Date_End_Sale>2024-11-29T00:00:00</Date_End_Sale>
+  </Sale>
+  <Sale>
+    <SaleId>350</SaleId>
+    <ProductId>120</ProductId>
+    <Price_Sale>80</Price_Sale>
+    <If_All_Customers>true</If_All_Customers>
+    <Date_Start_Sale>2024-12-04T00:00:00</Date_Start_Sale>
+    <Count_Sale>2</Count_Sale>
+    <Date_End_Sale xsi:nil="true" />
+  </Sale>
+  <Sale>
+    <SaleId>360</SaleId>
+    <ProductId>127</ProductId>
+    <Price_Sale>100</Price_Sale>
+    <If_All_Customers>false</If_All_Customers>
+    <Date_Start_Sale>2024-11-04T00:00:00</Date_Start_Sale>
+    <Count_Sale>1</Count_Sale>
+    <Date_End_Sale>2024-11-14T00:00:00</Date_End_Sale>
+  </Sale>
+  <Sale>
+    <SaleId>370</SaleId>
+    <ProductId>101</ProductId>
+    <Price_Sale>100</Price_Sale>
+    <If_All_Customers>true</If_All_Customers>
+    <Date_Start_Sale>2024-04-11T00:00:00</Date_Start_Sale>
+    <Count_Sale>1</Count_Sale>
+    <Date_End_Sale>2024-11-14T00:00:00</Date_End_Sale>
+  </Sale>
+  <Sale>
+    <SaleId>380</SaleId>
+    <ProductId>111</ProductId>
+    <Price_Sale>60</Price_Sale>
+    <If_All_Customers>false</If_All_Customers>
+    <Date_Start_Sale>2024-04-20T00:00:00</Date_Start_Sale>
+    <Count_Sale>1</Count_Sale>
+    <Date_End_Sale>2024-11-29T00:00:00</Date_End_Sale>
+  </Sale>
+  <Sale>
+    <SaleId>390</SaleId>
+    <ProductId>120</ProductId>
+    <Price_Sale>80</Price_Sale>
+    <If_All_Customers>true</If_All_Customers>
+    <Date_Start_Sale>2024-12-04T00:00:00</Date_Start_Sale>
+    <Count_Sale>2</Count_Sale>
+    <Date_End_Sale xsi:nil="true" />
+  </Sale>
+  <Sale>
+    <SaleId>400</SaleId>
+    <ProductId>127</ProductId>
+    <Price_Sale>100</Price_Sale>
+    <If_All_Customers>false</If_All_Customers>
+    <Date_Start_Sale>2024-11-04T00:00:00</Date_Start_Sale>
+    <Count_Sale>1</Count_Sale>
+    <Date_End_Sale>2024-11-14T00:00:00</Date_End_Sale>
+  </Sale>
 </ArrayOfSale>
