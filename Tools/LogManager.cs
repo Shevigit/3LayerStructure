@@ -9,7 +9,7 @@ namespace Tools
     public static class LogManager
     {
         //האם צריך לעשות עם const
-        private static string LOG = "Log";
+        private static  string LOG = "Log";
         private static int COUNTER = 0; 
         public static string GetFolder()
         {
@@ -19,6 +19,7 @@ namespace Tools
         {
             return GetFolder() + "/" + DateTime.Now.Day.ToString() + ".txt";
         }
+
         public static void Enter()
         {
             COUNTER++;
