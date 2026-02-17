@@ -595,4 +595,11 @@
     <Customer_IsClub>true</Customer_IsClub>
     <Customer_Address>שדרות יחזקאל 5</Customer_Address>
   </Customer>
+  <Customer>
+    <Customer_Id>4568</Customer_Id>
+    <Customer_Name>beni</Customer_Name>
+    <Customer_Phone>05485045143</Customer_Phone>
+    <Customer_IsClub>true</Customer_IsClub>
+    <Customer_Address>gerrr</Customer_Address>
+  </Customer>
 </ArrayOfCustomer>

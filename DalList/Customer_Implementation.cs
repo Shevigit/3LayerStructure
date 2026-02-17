@@ -29,7 +29,11 @@ internal class Customer_Implementation : ICustomer
         LogManager.WriteToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "create customer");
         var q = DataSource.customers.Any(c => c.Customer_Id == item.Customer_Id);
         if (q)
+        {
+            LogManager.WriteToLog(MethodBase.GetCurrentMethod().DeclaringType.FullName, MethodBase.GetCurrentMethod().Name, "Throw Exception: The customer is exists");
             throw new DalIdExistsException("The customer is exists");
+        }
+        
         else
         {
             DataSource.customers.Add(item);

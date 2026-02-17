@@ -284,3 +284,16 @@ C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.
 C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.Net\DalFacade\obj\Debug\refint\DalFacade.dll
 C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.Net\DalFacade\obj\Debug\DalFacade.pdb
 C:\Users\This User\Pictures\example\חדש\‏‏תיקיה חדשה\project_C-.Net\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\bin\DalFacade.deps.json
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\bin\DalFacade.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\bin\DalFacade.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הפרויקט שעובדת עליו\3LayerStructure\DalFacade\obj\Debug\ref\DalFacade.dll
