@@ -1,0 +1,6 @@
+12/04/2026 22:57:49	DalTest.Program.Main:	String 'ארוק' was not recognized as a valid Boolean.
+12/04/2026 23:00:30	Bllmplementation.SaleImplementation.Read:	Read 200 Sale
+12/04/2026 23:00:30	Bllmplementation.SaleImplementation.Read:	Read  Sale
+12/04/2026 23:00:39	Bllmplementation.SaleImplementation.Read:	Read 210 Sale
+12/04/2026 23:00:39	Bllmplementation.SaleImplementation.Read:	Read  Sale
+12/04/2026 23:00:44	Bllmplementation.SaleImplementation.Read:	Read 100 Sale
