@@ -301,3 +301,16 @@ C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\DalList\ob
 C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\DalList\obj\Debug\refint\DalList.dll
 C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\DalList\obj\Debug\DalList.pdb
 C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\DalList\obj\Debug\ref\DalList.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\bin\DalList.deps.json
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\bin\DalList.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\bin\DalList.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\refint\DalList.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\DalList.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\DalList\obj\Debug\ref\DalList.dll

@@ -244,3 +244,15 @@ C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\Tools\obj\
 C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\Tools\obj\Debug\refint\Tools.dll
 C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\Tools\obj\Debug\Tools.pdb
 C:\Users\This User\Pictures\קורות חיים\ready\3LayerStructure\Tools\obj\Debug\ref\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\bin\Tools.deps.json
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\bin\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\bin\Tools.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\refint\Tools.dll
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\Tools.pdb
+C:\Users\This User\Desktop\הנחיות הפרויקט\הנחיות תשפו\3LayerStructure\Tools\obj\Debug\ref\Tools.dll
