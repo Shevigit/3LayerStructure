@@ -1,0 +1,9 @@
+21/04/2026 10:28:18	Bllmplementation.SaleImplementation.Read:	Read 200 Sale
+21/04/2026 10:28:18	Bllmplementation.SaleImplementation.Read:	Read  Sale
+21/04/2026 10:28:23	Bllmplementation.SaleImplementation.Read:	Read 100 Sale
+21/04/2026 10:37:18	Bllmplementation.SaleImplementation.Read:	Read 200 Sale
+21/04/2026 10:40:22	Bllmplementation.SaleImplementation.Read:	Read  Sale
+21/04/2026 10:41:12	Bllmplementation.SaleImplementation.Read:	Read 100 Sale
+21/04/2026 10:42:46	Bllmplementation.SaleImplementation.Read:	Read 200 Sale
+21/04/2026 10:42:57	Bllmplementation.SaleImplementation.Read:	Read 100 Sale
+21/04/2026 10:42:57	Bllmplementation.SaleImplementation.Read:	Read  Sale
